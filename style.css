@@ -13,9 +13,9 @@
     --fw-reg: 300;
     --fw-bold: 900;
 
-    --clr-light: #fff;
-    --clr-dark: #303030;
-    --clr-accent: #16e0bd;
+    --clr-light: whitesmoke;
+    --clr-dark: darkslateblue;
+    --clr-accent: silver;
 
     --fs-h1: 3rem;
     --fs-h2: 2.25rem;
@@ -393,7 +393,7 @@ header {
 .porfolio__img {
     transition:
         transform 750ms cubic-bezier(.5, 0, .5, 1),
-        opacity 250ms linear;  
+        opacity 250ms linear; 
 }
 
 .portfolio__item:focus {
